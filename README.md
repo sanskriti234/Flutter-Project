@@ -32,8 +32,8 @@ biet_website/
 ## Run
 
 ```bash
-flutter create biet_website      # creates platform folders (web/, android/ ...)
-cd biet_website
+flutter create campus_website   # creates platform folders (web/, android/ ...)
+cd campus_website
 # copy lib/, assets/ and pubspec.yaml from this project into it (overwrite)
 # delete test/widget_test.dart and analysis_options.yaml
 flutter pub get
