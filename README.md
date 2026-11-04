@@ -1,8 +1,8 @@
-# BIET Lucknow – Student College Website (Flutter Web)
+#  Campus – Student College Website (Flutter Web)
 
 A four-page responsive college website (Home, About Us, Courses, Contact Us) built with Flutter, Dart and Material Design 3.
 
-> **Disclaimer:** This is a student-created academic project inspired by the official BIET website (https://www.bansaliet.in/). It is **not** the official website of Bansal Institute of Engineering & Technology and is not endorsed by the institute. The contact form is a frontend demo – messages are not sent anywhere.
+> **Disclaimer:** This is a student-created academic project inspired by the official BIET website. It is **not** the official website and is not endorsed by the institute. The contact form is a frontend demo – messages are not sent anywhere.
 
 ## Folder structure
 
